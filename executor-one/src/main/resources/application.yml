@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: executor-one
+
+server:
+  port: 8081
